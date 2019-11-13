@@ -1,0 +1,8 @@
+{
+    "name": "gradientbackground",
+    "version": "0.0.1",
+    "private": true,
+    "description": "these component accepts an array of colors and displays them, if its 2 colors We know it would be 50/50 in term of the gradient value",
+    "author": "Theoderic Onipe",
+    "main": "gradientBackground.js"
+}
